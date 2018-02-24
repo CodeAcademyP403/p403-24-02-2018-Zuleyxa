@@ -1,0 +1,45 @@
+head{
+    background: rgb(183, 185, 187);border:solid;
+
+}
+
+
+
+h1 {
+    text-align: center;
+    font-size:20px;color: rgb(255,255,255);
+    font-family:Georgia, 'Times New Roman', Times, serif; 
+    }
+
+    .center {
+    margin:auto;
+    width: 80%;
+    padding: 10px;
+
+    }
+body{
+    background-color: rgb(148, 140, 140);
+    
+}
+
+h2{
+    text-align: center;
+    font-size:  15px;color: rgb(255,255,255);
+    font-family:Georgia, 'Times New Roman', Times, serif
+}
+    .center{
+        margin: auto;
+        width: 80%;
+        padding: 20px;
+        color: rgb(255,255,255);
+}
+div{
+
+}.floating-box {
+display: inline-block;
+    margin-left: 10%;
+    width: 150px;
+    height: 150px;
+    background-color: rgb(255,255,255);
+    border: 5px solid rgba(33, 34, 31, 0.87);  
+}
