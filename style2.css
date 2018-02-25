@@ -1,0 +1,49 @@
+body{
+    background: rgb(255,255,255);
+    border: dotted;color: #000;
+}
+h1{
+    text-align:center;
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 200%;
+ 
+}
+h2{
+    text-align:center;
+    font-family: 'Arial Narrow', Arial, sans-serif;
+    font-size: 150%;
+
+}
+.right{
+    display: inline-block;
+    width: 50%;
+    float: right;
+    padding: 50px;
+    
+
+    
+}
+.left{
+    display: inline-block;
+    width: 50%; 
+    float: left; 
+    padding: 50px;
+    
+}
+.text{
+box-sizing: border-box;
+}
+
+h3{
+    text-align:center;
+    font-family:'Arial Narrow', Arial, sans-serif;
+    font-size: 100%;  
+}
+div.foot{
+    text-align: center;
+}
+button{
+    
+    padding: 0%;
+    
+}
